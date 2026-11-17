@@ -10,6 +10,8 @@ These scripts draw the chalkboard videos on this site. They are kept here so a v
 | `levy/prep.py` | Figure crops and narration text for the Lévy video |
 | `chalk_pp.py` | The scenes of the pp 13 TeV video; uses the renderer in `chalk.py` |
 | `pp/prep.py` | Figure crops and narration text for the pp 13 TeV video |
+| `chalk_ppb.py` | The scenes of the pp / pPb / PbPb video; uses the renderer in `chalk.py` |
+| `ppb/prep.py` | Figure crops and narration text for the pp / pPb / PbPb video |
 
 Figures, audio and previews are generated into `levy/` and `pp/` and are not committed.
 

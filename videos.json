@@ -128,5 +128,68 @@
         "title": "Summary"
       }
     ]
+  },
+  {
+    "id": "pp-ppb-pbpb-bec",
+    "title": "Three Collisions, One Ruler (Bose-Einstein correlations in pp, pPb and PbPb)",
+    "summary": "CMS measures the particle source in proton-proton, proton-lead and lead-lead collisions and finds that its size depends on how many particles are produced, not on what collided.",
+    "date": "2026-11-17",
+    "duration": 443,
+    "video": "videos/pp-ppb-pbpb-bec/video.mp4",
+    "poster": "videos/pp-ppb-pbpb-bec/poster.jpg",
+    "tags": [
+      "small systems",
+      "femtoscopy",
+      "CMS"
+    ],
+    "paper": {
+      "authors": "CMS Collaboration",
+      "title": "Bose-Einstein correlations in pp, pPb, and PbPb collisions at √sNN = 0.9-7 TeV",
+      "cite": "Phys. Rev. C 97, 064912 (2018)",
+      "url": "https://doi.org/10.1103/PhysRevC.97.064912"
+    },
+    "credits": "Figures from the paper are reproduced under the CC BY 4.0 licence. This is an unofficial educational explainer, not a CMS Collaboration product.",
+    "chapters": [
+      {
+        "t": 0,
+        "title": "Introduction"
+      },
+      {
+        "t": 29,
+        "title": "Three collision systems"
+      },
+      {
+        "t": 77,
+        "title": "The quantum ruler"
+      },
+      {
+        "t": 118,
+        "title": "Which particle is which?"
+      },
+      {
+        "t": 162,
+        "title": "Cleaning up the peak"
+      },
+      {
+        "t": 219,
+        "title": "Result 1: more particles, bigger source"
+      },
+      {
+        "t": 264,
+        "title": "Does it matter what collides?"
+      },
+      {
+        "t": 302,
+        "title": "Result 2: the shape of the source"
+      },
+      {
+        "t": 351,
+        "title": "Two more observations"
+      },
+      {
+        "t": 396,
+        "title": "Summary"
+      }
+    ]
   }
 ]
