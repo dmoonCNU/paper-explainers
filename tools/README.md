@@ -12,8 +12,10 @@ These scripts draw the chalkboard videos on this site. They are kept here so a v
 | `pp/prep.py` | Figure crops and narration text for the pp 13 TeV video |
 | `chalk_ppb.py` | The scenes of the pp / pPb / PbPb video; uses the renderer in `chalk.py` |
 | `ppb/prep.py` | Figure crops and narration text for the pp / pPb / PbPb video |
+| `chalk_euler.py` | The scenes of the video on Euler's equations for a rigid body (drawings only, no paper figures); writing is timed to phrases of the narration |
+| `euler/prep.py` | Narration text for the Euler's equations video (`tts` only) |
 
-Figures, audio and previews are generated into `levy/` and `pp/` and are not committed.
+Figures, audio and previews are generated into each video's folder and are not committed.
 
 ## Requirements
 

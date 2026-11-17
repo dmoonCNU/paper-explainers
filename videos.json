@@ -191,5 +191,58 @@
         "title": "Summary"
       }
     ]
+  },
+  {
+    "id": "euler-rigid-body",
+    "title": "Why a Tossed Racket Flips (Euler's equations for a rotating rigid body)",
+    "summary": "Three short equations explain how a rigid body tumbles: why the Earth wobbles, and why a racket spun about its middle axis always flips.",
+    "date": "2026-11-17",
+    "duration": 436,
+    "video": "videos/euler-rigid-body/video.mp4",
+    "poster": "videos/euler-rigid-body/poster.jpg",
+    "tags": [
+      "classical mechanics",
+      "rigid body",
+      "rotation"
+    ],
+    "credits": "An educational explainer of a standard topic in undergraduate classical mechanics. All drawings were made for this video.",
+    "chapters": [
+      {
+        "t": 0,
+        "title": "Why does a tossed racket flip?"
+      },
+      {
+        "t": 38,
+        "title": "The starting point"
+      },
+      {
+        "t": 82,
+        "title": "Principal axes and the body frame"
+      },
+      {
+        "t": 135,
+        "title": "The price of a rotating frame"
+      },
+      {
+        "t": 179,
+        "title": "Euler's equations"
+      },
+      {
+        "t": 229,
+        "title": "Three quick checks"
+      },
+      {
+        "t": 274,
+        "title": "Symmetric body: the wobbling Earth"
+      },
+      {
+        "t": 329,
+        "title": "The tennis racket theorem"
+      },
+      {
+        "t": 390,
+        "title": "Summary"
+      }
+    ]
   }
 ]
