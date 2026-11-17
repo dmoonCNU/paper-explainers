@@ -1,4 +1,4 @@
-// Chalkboard Physics: renders the video list and the watch page from videos.json
+// dMoon's Chalkboard Physics: renders the video list and the watch page from videos.json
 (function () {
   function el(tag, attrs, kids) {
     var n = document.createElement(tag);
@@ -53,7 +53,7 @@
       var v = list.filter(function (x) { return x.id === id; })[0];
       root.textContent = '';
       if (!v) { root.appendChild(el('p', { class: 'empty', text: 'Video not found.' })); return; }
-      document.title = v.title + ' | Chalkboard Physics';
+      document.title = v.title + " | dMoon's Chalkboard Physics";
       var video = el('video', { class: 'player', controls: '', preload: 'metadata', poster: v.poster, src: v.video });
       root.appendChild(el('h1', { text: v.title }));
       root.appendChild(el('p', { class: 'lead', text: v.summary || '' }));

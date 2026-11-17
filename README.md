@@ -1,4 +1,4 @@
-# Chalkboard Physics
+# dMoon's Chalkboard Physics
 
 Short chalkboard videos that explain physics research papers at an undergraduate level.
 
