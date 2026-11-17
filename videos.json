@@ -65,5 +65,68 @@
         "title": "Summary"
       }
     ]
+  },
+  {
+    "id": "pp-13tev-bec",
+    "title": "How Big Is a Proton-Proton Collision? (Bose-Einstein correlations in pp at 13 TeV)",
+    "summary": "CMS measures the size of the particle source in proton-proton collisions and finds that busy collisions behave like miniature heavy-ion collisions.",
+    "date": "2026-11-17",
+    "duration": 420,
+    "video": "videos/pp-13tev-bec/video.mp4",
+    "poster": "videos/pp-13tev-bec/poster.jpg",
+    "tags": [
+      "proton-proton collisions",
+      "femtoscopy",
+      "CMS"
+    ],
+    "paper": {
+      "authors": "CMS Collaboration",
+      "title": "Bose-Einstein correlations of charged hadrons in proton-proton collisions at √s = 13 TeV",
+      "cite": "JHEP 03 (2020) 014",
+      "url": "https://doi.org/10.1007/JHEP03(2020)014"
+    },
+    "credits": "Figures from the paper are reproduced under the CC BY 4.0 licence. This is an unofficial educational explainer, not a CMS Collaboration product.",
+    "chapters": [
+      {
+        "t": 0,
+        "title": "Introduction"
+      },
+      {
+        "t": 27,
+        "title": "Small collisions, big surprise"
+      },
+      {
+        "t": 71,
+        "title": "A quantum ruler"
+      },
+      {
+        "t": 121,
+        "title": "The data"
+      },
+      {
+        "t": 153,
+        "title": "The catch: fake correlations"
+      },
+      {
+        "t": 209,
+        "title": "Result 1: the source grows with multiplicity"
+      },
+      {
+        "t": 245,
+        "title": "Does the collision energy matter?"
+      },
+      {
+        "t": 272,
+        "title": "Result 2: R grows like the cube root of N"
+      },
+      {
+        "t": 323,
+        "title": "Result 3: the source is expanding"
+      },
+      {
+        "t": 376,
+        "title": "Summary"
+      }
+    ]
   }
 ]
