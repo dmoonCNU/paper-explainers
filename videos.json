@@ -1,0 +1,32 @@
+[
+  {
+    "id": "levy-femtoscopy",
+    "title": "Taking a Picture of the Quark-Gluon Plasma",
+    "summary": "How CMS used Bose-Einstein correlations to measure the size and shape of the particle source in lead-lead collisions at 5.02 TeV.",
+    "date": "2026-11-17",
+    "duration": 442,
+    "video": "videos/levy-femtoscopy/video.mp4",
+    "poster": "videos/levy-femtoscopy/poster.jpg",
+    "tags": ["heavy-ion collisions", "femtoscopy", "CMS"],
+    "paper": {
+      "authors": "CMS Collaboration",
+      "title": "Two-particle Bose-Einstein correlations and their Lévy parameters in PbPb collisions at √sNN = 5.02 TeV",
+      "cite": "Phys. Rev. C 109, 024914 (2024)",
+      "url": "https://doi.org/10.1103/PhysRevC.109.024914"
+    },
+    "credits": "Figures from the paper are reproduced under the CC BY 4.0 licence. This is an unofficial educational explainer, not a CMS Collaboration product.",
+    "chapters": [
+      { "t": 0, "title": "Introduction" },
+      { "t": 22, "title": "A droplet of quark-gluon plasma" },
+      { "t": 60, "title": "Bose-Einstein correlations" },
+      { "t": 111, "title": "What shape is the source?" },
+      { "t": 156, "title": "One formula, three numbers" },
+      { "t": 187, "title": "The CMS measurement" },
+      { "t": 230, "title": "Result 1: the size R" },
+      { "t": 276, "title": "The fireball expands like a fluid" },
+      { "t": 322, "title": "Result 2: the shape α" },
+      { "t": 361, "title": "Result 3: the strength λ" },
+      { "t": 400, "title": "Summary" }
+    ]
+  }
+]
