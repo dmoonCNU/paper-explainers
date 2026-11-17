@@ -23,6 +23,10 @@ git push
 
 Optional: add a `chapters` list (`{"t": seconds, "title": "..."}`) to the new entry in `videos.json` to get clickable chapters on the player page.
 
+## Making a video
+
+The scripts that draw the chalkboard videos are in `tools/`; see `tools/README.md`.
+
 ## Limits
 
 - GitHub rejects single files over 100 MB.

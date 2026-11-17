@@ -1,0 +1,5 @@
+__pycache__/
+tools/*/figs/
+tools/*/audio/
+tools/*/preview/
+tools/*/narration_all.wav
