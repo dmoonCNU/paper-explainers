@@ -244,5 +244,68 @@
         "title": "Summary"
       }
     ]
+  },
+  {
+    "id": "hic-big-picture",
+    "title": "The Hottest Liquid on Earth (Heavy-ion collisions and the quark-gluon plasma)",
+    "summary": "Colliding heavy nuclei make a droplet of quark-gluon plasma, a nearly perfect liquid at a few trillion degrees. How we know it is a liquid, and what is still not understood.",
+    "date": "2026-11-20",
+    "duration": 485,
+    "video": "videos/hic-big-picture/video.mp4",
+    "poster": "videos/hic-big-picture/poster.jpg",
+    "tags": [
+      "quark-gluon plasma",
+      "heavy-ion collisions",
+      "review"
+    ],
+    "paper": {
+      "authors": "W. Busza, K. Rajagopal and W. van der Schee",
+      "title": "Heavy Ion Collisions: The Big Picture, and the Big Questions",
+      "cite": "Annu. Rev. Nucl. Part. Sci. 68 (2018), arXiv:1802.04801",
+      "url": "https://arxiv.org/abs/1802.04801"
+    },
+    "credits": "This is an unofficial educational explainer of the review article. All drawings were made for this video; no figures from the article are reproduced.",
+    "chapters": [
+      {
+        "t": 0,
+        "title": "The hottest liquid on Earth"
+      },
+      {
+        "t": 38,
+        "title": "One collision, step by step"
+      },
+      {
+        "t": 94,
+        "title": "Why? The early universe"
+      },
+      {
+        "t": 143,
+        "title": "The surprise: it is a liquid"
+      },
+      {
+        "t": 192,
+        "title": "Anisotropic flow and viscosity"
+      },
+      {
+        "t": 245,
+        "title": "The life of a droplet"
+      },
+      {
+        "t": 292,
+        "title": "Are the quarks really free?"
+      },
+      {
+        "t": 346,
+        "title": "Jets: a second probe"
+      },
+      {
+        "t": 400,
+        "title": "Big open questions"
+      },
+      {
+        "t": 445,
+        "title": "Summary"
+      }
+    ]
   }
 ]

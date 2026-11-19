@@ -14,6 +14,8 @@ These scripts draw the chalkboard videos on this site. They are kept here so a v
 | `ppb/prep.py` | Figure crops and narration text for the pp / pPb / PbPb video |
 | `chalk_euler.py` | The scenes of the video on Euler's equations for a rigid body (drawings only, no paper figures); writing is timed to phrases of the narration |
 | `euler/prep.py` | Narration text for the Euler's equations video (`tts` only) |
+| `chalk_hic.py` | The scenes of the video on the review "Heavy Ion Collisions: The Big Picture, and the Big Questions" (drawings only, no paper figures) |
+| `hic/prep.py` | Narration text for the heavy-ion review video (`tts` only) |
 
 Figures, audio and previews are generated into each video's folder and are not committed.
 
