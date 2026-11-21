@@ -307,5 +307,68 @@
         "title": "Summary"
       }
     ]
+  },
+  {
+    "id": "wu-parity",
+    "title": "The Experiment That Broke the Mirror (C. S. Wu's cobalt-60 test of parity conservation)",
+    "summary": "In the winter of 1956-57, cobalt-60 nuclei cooled to a few thousandths of a kelvin showed that the weak force can tell left from right.",
+    "date": "2026-11-21",
+    "duration": 494,
+    "video": "videos/wu-parity/video.mp4",
+    "poster": "videos/wu-parity/poster.jpg",
+    "tags": [
+      "parity violation",
+      "weak interaction",
+      "beta decay"
+    ],
+    "paper": {
+      "authors": "C. S. Wu, E. Ambler, R. W. Hayward, D. D. Hoppes and R. P. Hudson",
+      "title": "Experimental Test of Parity Conservation in Beta Decay",
+      "cite": "Phys. Rev. 105, 1413 (1957)",
+      "url": "https://doi.org/10.1103/PhysRev.105.1413"
+    },
+    "credits": "An unofficial educational explainer of a classic experiment. All drawings were made for this video; no figures from the paper are reproduced, and the plot of the result is a schematic sketch.",
+    "chapters": [
+      {
+        "t": 0,
+        "title": "The experiment that broke the mirror"
+      },
+      {
+        "t": 34,
+        "title": "What is parity conservation?"
+      },
+      {
+        "t": 72,
+        "title": "The tau-theta puzzle"
+      },
+      {
+        "t": 125,
+        "title": "How to test mirror symmetry"
+      },
+      {
+        "t": 177,
+        "title": "Cobalt-60"
+      },
+      {
+        "t": 232,
+        "title": "The apparatus"
+      },
+      {
+        "t": 300,
+        "title": "The result"
+      },
+      {
+        "t": 350,
+        "title": "Why? Handedness"
+      },
+      {
+        "t": 400,
+        "title": "Aftermath"
+      },
+      {
+        "t": 455,
+        "title": "Summary"
+      }
+    ]
   }
 ]
